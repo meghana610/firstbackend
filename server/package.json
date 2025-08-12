@@ -1,0 +1,25 @@
+{
+  "name": "todoproject",
+  "version": "1.0.0",
+  "description": "this is my first backend project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/meghana610/firstbackend.git"
+  },
+  "keywords": [
+    "todo",
+    "first",
+    "backend",
+    "project"
+  ],
+  "author": "Meghana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meghana610/firstbackend/issues"
+  },
+  "homepage": "https://github.com/meghana610/firstbackend#readme"
+}
